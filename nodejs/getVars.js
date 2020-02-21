@@ -1,5 +1,5 @@
 /*
- * Pixelblaze Websocket Example - getVars
+ * NodeJS Pixelblaze Websocket Example - getVars
  *
  * This will request exported variables from Pixelblaze. To get interesting data, at least one variable
  * must be exported, e.g.:
